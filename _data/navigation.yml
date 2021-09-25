@@ -4,7 +4,7 @@ main:
     url: https://killerqueen01.github.io/reserachexperience/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Work Experience"
     url: /teaching/
@@ -12,10 +12,10 @@ main:
   - title: "Educations"
     url: /educations/
         
-  - title: "Blog Posts"
+  - title: "Skills"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "Download my CV here"
     url: /cv/
     
   - title: "Guide"
