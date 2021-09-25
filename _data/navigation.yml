@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Research Experience"
-    url: /publications/
+    url: https://killerqueen01.github.io/reserachexperience/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Work Experience"
+    url: /teaching/
     
   - title: "Educations"
     url: /educations/
