@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Research Experience"
-    url: https://killerqueen01.github.io/reserachexperience/
+    url: /research/
 
   - title: "Talks"
     url: /talks/
