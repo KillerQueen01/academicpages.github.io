@@ -1,21 +1,18 @@
 # main links links
 main:
+  - title: "Education"
+    url: /education/
+    
   - title: "Research Experience"
     url: /research/
-
-  - title: "Talks"
-    url: /talks/
-
+    
   - title: "Work Experience"
     url: /teaching/
     
-  - title: "Educations"
-    url: /educations/
-        
   - title: "Skills"
     url: /year-archive/
     
-  - title: "Download my CV here"
+  - title: "CV"
     url: /cv/
     
   - title: "Guide"
