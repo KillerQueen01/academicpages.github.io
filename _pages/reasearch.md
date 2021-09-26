@@ -35,7 +35,6 @@ author_profile: true
 * Constructed the basic framework of the MATLAB Graphical User Interface and organized its underlying logic between different parts, then integrated the above into an executable program
 * Applied the knowledge from the course Mechanics of Materials I into practice in MATLAB coding
 * Awarded the third prize in 2017 Harbin Institute of Technology Software Development Competition on Mechanics of Materials as its innovative, versatile, and user-orientated features
-  <!-- * Supervisor: Professor Git -->
 
 ### A Wheel-Legged Lunar Rover for Varied Environmental Conditions
 
